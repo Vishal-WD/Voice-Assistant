@@ -25,6 +25,8 @@ Luna is a voice-activated assistant built using Python. It can perform various t
   - `wikipedia`: For fetching information from Wikipedia.
   - `pyjokes`: For telling jokes.
   - `geopy`: For location services.
+  - `requests`: For making HTTP requests.
+  - `geocoder`: For geocoding and reverse geocoding.
 
 ## Installation
 1. Clone the repository:
